@@ -5,8 +5,11 @@ My submission to the Titanic challenge on Kaggle. See [here](http://www.kaggle.c
 
 Prerequisites:
 =============
+
 Python 2.6+
+
 [scikit-learn](http://scikit-learn.org/stable/)
+
 [NumPy](http://www.numpy.org/)
 
 Run:
