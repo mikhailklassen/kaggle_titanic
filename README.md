@@ -1,10 +1,8 @@
-Titanic: Machine Learning from Disaster
-=======================================
+# Titanic: Machine Learning from Disaster
 
 My submission to the Titanic challenge on Kaggle. See [here](http://www.kaggle.com/c/titanic-gettingStarted) for details. Uses the scikit-learn machine learning libraries for Python to fit a model to the training data (`train.csv`) and run it on the test data (`test.csv`). Predicts the survival of passengers in the test set and produces an output file (`titanic_predictions.csv`).
 
-Prerequisites:
-=============
+## Prerequisites:
 
 Python 2.6+
 
@@ -12,8 +10,7 @@ Python 2.6+
 
 [NumPy](http://www.numpy.org/)
 
-Run:
-===
+## Run:
 
 From the command line:
 
